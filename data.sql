@@ -1,6 +1,6 @@
-\c biztime
+\c biztime_test
 
-DROP TABLE IF EXISTS invoices;
+-- DROP TABLE IF EXISTS invoices;
 DROP TABLE IF EXISTS companies;
 
 CREATE TABLE companies (
